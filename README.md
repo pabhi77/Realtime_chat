@@ -8,7 +8,8 @@ Multiple chat rooms: Users can join different chat rooms to communicate with spe
 Typing indicators: See when other users are typing in the chat.
 Message history: Previous messages are displayed when users join a room.
 Online status: Shows which users are currently online.
-![Screenshot (1456)](https://github.com/user-attachments/assets/ec6c4662-c3c4-4d42-af32-3318451c9ef4)
+![Screenshot (1456)](https://github.com/user-attachments/assets/0f96b263-2c67-4d1a-b8e0-57b5b14269e4)
+
 
 Tech Stack:
 Frontend:
